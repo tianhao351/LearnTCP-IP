@@ -4,7 +4,9 @@
 
 ### 1.1 My PC's Internet Setup
 
+
 ![屏幕快照 2017-09-15 上午11.25.40](http://owdx3fxwv.bkt.clouddn.com/屏幕快照 2017-09-15 上午11.25.40.png)
+
 
 #### 1.1.1 DHCP
 
